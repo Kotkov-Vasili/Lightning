@@ -1,0 +1,14 @@
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\bin\Debug\LightningCOM.exe.config
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\bin\Debug\LightningCOM.exe
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\bin\Debug\LightningCOM.pdb
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\MainWindow.g.cs
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\App.g.cs
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM_MarkupCompile.cache
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM_MarkupCompile.lref
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\MainWindow.baml
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.g.resources
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.Properties.Resources.resources
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.csproj.GenerateResource.Cache
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.exe
+D:\Programming\CSharp\Projects\Visual Studio\LightningCOM\LightningCOM\obj\Debug\LightningCOM.pdb
